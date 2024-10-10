@@ -1,4 +1,5 @@
 Capstone Project: Building a Voice-Activated Virtual Assistant with Machine Learning
+I am doing it
 
 This capstone project involves creating a Python-based voice-activated virtual assistant, similar to Siri or Alexa, with integrated machine learning capabilities to improve its responsiveness and predict future tasks based on user behavior. Take voice commands from the user. Respond to basic questions (e.g., time, date, weather). Open applications or websites (e.g., browser, email). Integrate with third-party APIs (e.g., OpenWeatherMap, Wolfram Alpha, etc.).
 
